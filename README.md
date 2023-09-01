@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Recipe App</b></h3>
+  <h3><b>Foody On Rails</b></h3>
 
 </div>
 
